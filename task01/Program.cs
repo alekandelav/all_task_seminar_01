@@ -1,21 +1,16 @@
-﻿//Напишите программу которая
+﻿Console.WriteLine("введите число первое");
+int number1 = Convert.ToInt32(Console.RedLine());
 
-//1. На вход принимает число и выдает его в квадрат
-// число умноженное на само себя
+Console.WriteLine("введите число второе");
+int number2 = Convert.ToInt32(Console.RedLine());
 
-//Например:
-// 4-> 16
-//-3 -> 9
-// -7 -> 49
+if (number1/number2 == number2)
+{
+ Console.WriteLine("да");
+}
 
-
-// Console.WriteLine ("Введите целое число");
-// int number = Convert.ToInt32(Console.ReadLine());
-// int square = number * number;
-// Console.WriteLine($"Квадрат числа {number} = {square}");
-
-
-//$ - интерполция
-
-
+else
+{
+   Console.WriteLine("нет");
+}
 
