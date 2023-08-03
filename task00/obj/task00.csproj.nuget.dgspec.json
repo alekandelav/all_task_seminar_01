@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\New\\Desktop\\all_task\\task00\\task00.csproj": {}
+    "C:\\Users\\New\\Desktop\\all_task\\task00\\task00.csproj": {}
   },
   "projects": {
-    "c:\\Users\\New\\Desktop\\all_task\\task00\\task00.csproj": {
+    "C:\\Users\\New\\Desktop\\all_task\\task00\\task00.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\New\\Desktop\\all_task\\task00\\task00.csproj",
+        "projectUniqueName": "C:\\Users\\New\\Desktop\\all_task\\task00\\task00.csproj",
         "projectName": "task00",
-        "projectPath": "c:\\Users\\New\\Desktop\\all_task\\task00\\task00.csproj",
+        "projectPath": "C:\\Users\\New\\Desktop\\all_task\\task00\\task00.csproj",
         "packagesPath": "C:\\Users\\New\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\New\\Desktop\\all_task\\task00\\obj\\",
+        "outputPath": "C:\\Users\\New\\Desktop\\all_task\\task00\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\New\\AppData\\Roaming\\NuGet\\NuGet.Config"
