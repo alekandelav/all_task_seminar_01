@@ -6,7 +6,7 @@
 // -3 -> нет
 // 7 -> нет
 
-Console.Write("Является ли чесло четным? : ");
+Console.Write("Является ли число четным? : ");
 int num = int.Parse(Console.ReadLine());
 int remain = num % 2;
 if (remain == 0)
@@ -19,4 +19,3 @@ else
     Console.WriteLine("Число " + num + " четное?");
     Console.WriteLine("Не четное!");
 }
-

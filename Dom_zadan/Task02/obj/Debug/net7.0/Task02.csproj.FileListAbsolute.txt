@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\bin\Debug\net7.0\Task02.exe
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\bin\Debug\net7.0\Task02.deps.json
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\bin\Debug\net7.0\Task02.runtimeconfig.json
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\bin\Debug\net7.0\Task02.dll
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\bin\Debug\net7.0\Task02.pdb
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\obj\Debug\net7.0\Task02.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\obj\Debug\net7.0\Task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\obj\Debug\net7.0\Task02.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\obj\Debug\net7.0\Task02.AssemblyInfo.cs
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\obj\Debug\net7.0\Task02.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\obj\Debug\net7.0\Task02.dll
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\obj\Debug\net7.0\refint\Task02.dll
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\obj\Debug\net7.0\Task02.pdb
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\obj\Debug\net7.0\Task02.genruntimeconfig.cache
+C:\Users\Илья\Desktop\git\all_task_seminar_01\Dom_zadan\Task02\obj\Debug\net7.0\ref\Task02.dll
