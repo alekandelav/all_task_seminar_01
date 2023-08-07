@@ -6,5 +6,10 @@
 918 -> 1
 */
 
+Console.WriteLine("Введите трехзначное число чтобы и узнать вторую цифру");
+Console.Write("Введите число : ");
+
+int num = int.Parse(Console.ReadLine());
+
 
 
