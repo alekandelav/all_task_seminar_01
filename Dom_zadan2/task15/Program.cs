@@ -19,11 +19,11 @@ string WorkHoliday(int a)
     {
         if (a == 7 || a == 6)
         {
-            Console.Write("день " + a + " - Выходной день. ");
+            Console.Write("день " + a + " - (ДА) - Выходной день.");
         }
         else
         {
-            Console.Write("день " + a + " - Рабочий день. ");
+            Console.Write("день " + a + " - (НЕТ) - Рабочий день. ");
         }
     }
     else
