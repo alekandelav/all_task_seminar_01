@@ -19,7 +19,7 @@ int MakeArray(int a, int b)
 int result = 0;
 if (b < 3)
 {
-    Console.Write("Третьей цифры нет, держи: ");
+    Console.Write("Третьей цифры нет : ");
 }
     else
     {

@@ -11,7 +11,7 @@ int amount = number.ToString().Length;
 
 if (amount < 3 || amount > 3)
 {
-    Console.WriteLine("Вы ввели не трехзначное число");
+    Console.WriteLine("Не правильное количество, попробуйте ввести заново! ");
 }
 else
 {
