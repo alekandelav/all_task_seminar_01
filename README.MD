@@ -1,4 +1,6 @@
-1. Домашнее задание с 1 семинара находиться в папке Dom_zadan (ссылка на мой репозиторий https://github.com/alekandelav/all_task_seminar_01.git).
+1. Домашнее задание с 1 семинара находиться в папке Dom_zadan
+2. Домашнее задание с 2 семинара находиться в папке Dom_zadan2
+(ссылка на мой репозиторий https://github.com/alekandelav/all_task_seminar_01.git).
 
 
 ## Урок 1. Знакомство с языком программирования С# - Dom_zadan
