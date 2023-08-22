@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\obj\Debug\net7.0\task5_less22.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\obj\Debug\net7.0\task5_less22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\obj\Debug\net7.0\task5_less22.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\obj\Debug\net7.0\task5_less22.AssemblyInfo.cs
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\obj\Debug\net7.0\task5_less22.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\bin\Debug\net7.0\task5_less22.exe
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\bin\Debug\net7.0\task5_less22.deps.json
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\bin\Debug\net7.0\task5_less22.runtimeconfig.json
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\bin\Debug\net7.0\task5_less22.dll
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\bin\Debug\net7.0\task5_less22.pdb
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\obj\Debug\net7.0\task5_less22.dll
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\obj\Debug\net7.0\refint\task5_less22.dll
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\obj\Debug\net7.0\task5_less22.pdb
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\obj\Debug\net7.0\task5_less22.genruntimeconfig.cache
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\lessons#3\task5_less22\obj\Debug\net7.0\ref\task5_less22.dll
