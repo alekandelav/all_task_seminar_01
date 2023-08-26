@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\bin\Debug\net7.0\Task23.exe
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\bin\Debug\net7.0\Task23.deps.json
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\bin\Debug\net7.0\Task23.runtimeconfig.json
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\bin\Debug\net7.0\Task23.dll
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\bin\Debug\net7.0\Task23.pdb
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\obj\Debug\net7.0\Task23.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\obj\Debug\net7.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\obj\Debug\net7.0\Task23.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\obj\Debug\net7.0\Task23.AssemblyInfo.cs
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\obj\Debug\net7.0\Task23.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\obj\Debug\net7.0\Task23.dll
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\obj\Debug\net7.0\refint\Task23.dll
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\obj\Debug\net7.0\Task23.pdb
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\obj\Debug\net7.0\Task23.genruntimeconfig.cache
+C:\Users\New\Desktop\уроки по  S#\all_task_seminar_01\Dom_zadan3\Task23\obj\Debug\net7.0\ref\Task23.dll
